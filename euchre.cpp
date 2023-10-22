@@ -59,6 +59,7 @@ class Game {
             }
         }
     }
+    
     void play_hand(int dealer_index) {
         int leader_index = dealer_index + 1;
         Card led_card;
